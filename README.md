@@ -3,48 +3,54 @@ Images of ships from X-Wing: The Miniatures Game by Fantasy Flight Games.
 
 All images are 256 x 256 PNGs with transparent backgrounds. The project is structured similarly to [xwing-data](https://github.com/guidokessels/xwing-data) by [Guido Kessels](https://github.com/guidokessels).
 
+The status of each ship is color-coded below:
+
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) OK
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Low Quality
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Not Done
+
 ---
 
 #### Wave 1
 
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> X-Wing
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> TIE Fighter
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> Y-Wing
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> TIE Advanced
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) X-Wing
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Fighter
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Y-Wing
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Advanced
 
 #### Wave 2
 
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> A-Wing
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> TIE Interceptor
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> Millennium Falcon
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> Slave 1
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) A-Wing
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Interceptor
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Millennium Falcon
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Slave 1
 
 #### Wave 3
 
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> HWK-290
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> Lambda-class Shuttle
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> B-Wing
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> TIE Bomber
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) HWK-290
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Lambda-class Shuttle
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) B-Wing
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Bomber
 
 #### Wave 4
 
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> Z-95 Headhunter
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> E-Wing
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> TIE Phantom
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> TIE Defender
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Z-95 Headhunter
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) E-Wing
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Phantom
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Defender
 
 #### Wave 5
 
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> YT-2400
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> VT-49 Decimator
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) YT-2400
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) VT-49 Decimator
 
 #### Wave 6
 
-* <span style="background:red; color:white; font-weight: bold">&nbsp;NOT DONE&nbsp;</span> Y-Wing (Scum paint scheme)
-* <span style="background:red; color:white; font-weight: bold">&nbsp;NOT DONE&nbsp;</span> Z-95 Headhunter (Black Sun paint scheme)
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> M3-A Interceptor
-* <span style="background:orange; color:white; font-weight: bold">&nbsp;LOW QUALITY&nbsp;</span> Aggressor
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> StarViper
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Y-Wing (Scum paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Z-95 Headhunter (Black Sun paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) M3-A Interceptor
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Aggressor
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) StarViper
 
 #### Wave 7
 
@@ -52,9 +58,9 @@ All images are 256 x 256 PNGs with transparent backgrounds. The project is struc
 
 #### Wave 8
 
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) T-70 X-Wing
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE/fo Fighter
 * *Several ships not listed, coming soon*
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> T-70 X-Wing
-* <span style="background:green; color:white; font-weight: bold">&nbsp;OK&nbsp;</span> TIE/fo Fighter
 
 #### Wave 9
 
