@@ -25,6 +25,10 @@ The status of each ship is color-coded below:
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Millennium Falcon
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Slave 1
 
+#### Rebel Transport Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) GR-75 Medium Transport
+
 #### Wave 3
 
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) HWK-290
@@ -39,6 +43,15 @@ The status of each ship is color-coded below:
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Phantom
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Defender
 
+#### Imperial Aces Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Interceptor (Royal Guard paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Interceptor (Saber Squadron paint scheme)
+
+#### Tantive IV Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) CR90 Corvette
+
 #### Wave 5
 
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) YT-2400
@@ -51,6 +64,15 @@ The status of each ship is color-coded below:
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) M3-A Interceptor
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Aggressor
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) StarViper
+
+#### Rebel Aces Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) B-Wing (Dagger Squadron paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) A-Wing (Prototype paint scheme)
+
+#### Imperial Raider Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Raider-class Corvette
 
 #### Wave 7
 
