@@ -76,13 +76,29 @@ The status of each ship is color-coded below:
 
 #### Wave 7
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) YV-666
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Kihraxz Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) K-wing
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Punisher
+
+#### Imperial Assault Carrier Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Gozanti-class Cruiser
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Fighter (Blue paint scheme)
 
 #### Wave 8
 
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Attack Shuttle
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) VCX-100
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) G-1A Starfighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) JumpMaster 5000
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) T-70 X-Wing
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE/fo Fighter
-* *Several ships not listed, coming soon*
+
+#### Imperial Veterans Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Defender (Glaive Squadron paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Bomber (Glaive Squadron paint scheme)
 
 #### Wave 9
 
