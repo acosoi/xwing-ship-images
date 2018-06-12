@@ -102,27 +102,56 @@ The status of each ship is color-coded below:
 
 #### Wave 9
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) ARC-170
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE/sf Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Protectorate Starfighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Lancer-class Pursuit Craft
+
+#### Heroes of the Resistance Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) YT-1300 (alternate paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-70 X-wing (Poe Dameron paint scheme)
+
+#### C-ROC Cruiser Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) C-ROC Cruiser
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) M3-A Interceptor (red stripe paint scheme)
 
 #### Wave 10
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Fighter (Sabine paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Upsilon-class Shuttle
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Quadjumper
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) U-wing
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Striker
 
 #### Wave 11
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Auzituck Gunship
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Scurrg H-6 Bomber
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Aggressor
 
 #### Wave 12
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Alpha-class Star Wing
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) M12-L Kimogila Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Sheathipede-class Shuttle
 
 #### Wave 13
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) B/SF-17 Bomber
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Silencer
+
+#### Guns for Hire Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Kihraxz Fighter (Black Sun paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) StarViper Mk. II
 
 #### Wave 14
 
-* *Not listed, coming soon*
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) U-Wing (Saw's Rebels paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-65 X-Wing (Saw's Rebels paint scheme)
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Reaper
 
 ---
 
