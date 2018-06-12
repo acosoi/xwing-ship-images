@@ -22,8 +22,8 @@ The status of each ship is color-coded below:
 
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) A-Wing
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Interceptor
-* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Millennium Falcon
-* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Slave 1
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) YT-1300
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Firespray-31
 
 #### Rebel Transport Expansion Pack
 
