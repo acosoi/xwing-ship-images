@@ -133,8 +133,8 @@ The status of each ship is color-coded below:
 
 #### Wave 12
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) M12-L Kimogila Fighter
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Sheathipede-class Shuttle
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) M12-L Kimogila Fighter
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Sheathipede-class Shuttle
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Alpha-class Star Wing
 
 #### Wave 13
