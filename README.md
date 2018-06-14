@@ -133,13 +133,13 @@ The status of each ship is color-coded below:
 
 #### Wave 12
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Alpha-class Star Wing
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) M12-L Kimogila Fighter
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Sheathipede-class Shuttle
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Alpha-class Star Wing
 
 #### Wave 13
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Silencer
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Silencer
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) B/SF-17 Bomber
 
 #### Guns for Hire Expansion Pack
