@@ -114,8 +114,8 @@ The status of each ship is color-coded below:
 
 #### C-ROC Cruiser Expansion Pack
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) C-ROC Cruiser
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) M3-A Interceptor (red stripe paint scheme)
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) C-ROC Cruiser
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) M3-A Interceptor (red stripe paint scheme)
 
 #### Wave 10
 
