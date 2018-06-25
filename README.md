@@ -102,10 +102,10 @@ The status of each ship is color-coded below:
 
 #### Wave 9
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) ARC-170
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE/sf Fighter
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Protectorate Starfighter
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Lancer-class Pursuit Craft
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) ARC-170
 
 #### Heroes of the Resistance Expansion Pack
 
