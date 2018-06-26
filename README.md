@@ -104,7 +104,7 @@ The status of each ship is color-coded below:
 
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE/sf Fighter
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Protectorate Starfighter
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Lancer-class Pursuit Craft
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Lancer-class Pursuit Craft
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) ARC-170
 
 #### Heroes of the Resistance Expansion Pack
@@ -155,8 +155,8 @@ The status of each ship is color-coded below:
 
 #### Lando's Millennium Falcon Expansion Pack
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Customized YT-1300 Light Freighter
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Escape Craft
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Customized YT-1300 Light Freighter
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Escape Craft
 
 ---
 
