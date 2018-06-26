@@ -153,6 +153,11 @@ The status of each ship is color-coded below:
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-65 X-Wing (Saw's Rebels paint scheme)
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Reaper
 
+#### Lando's Millennium Falcon Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Customized YT-1300 Light Freighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Escape Craft
+
 ---
 
 Star Wars, X-Wing: The Miniatures Game and all related properties, images and text are owned by Fantasy Flight Games, Lucasfilm Ltd., and/or Disney.
