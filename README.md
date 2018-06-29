@@ -27,7 +27,7 @@ The status of each ship is color-coded below:
 
 #### Rebel Transport Expansion Pack
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) GR-75 Medium Transport
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) GR-75 Medium Transport
 
 #### Wave 3
 
