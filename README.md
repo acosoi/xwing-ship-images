@@ -160,6 +160,10 @@ The status of each ship is color-coded below:
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Customized YT-1300 Light Freighter
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Escape Craft
 
+#### Fang Fighter Expansion Pack
+
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Fang Fighter
+
 ---
 
 Star Wars, X-Wing: The Miniatures Game and all related properties, images and text are owned by Fantasy Flight Games, Lucasfilm Ltd., and/or Disney.
