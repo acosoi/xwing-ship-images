@@ -11,6 +11,8 @@ The status of each ship is color-coded below:
 
 ---
 
+### First Edition
+
 #### Wave 1
 
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) X-Wing
@@ -155,14 +157,17 @@ The status of each ship is color-coded below:
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-65 X-Wing (Saw's Rebels paint scheme)
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Reaper
 
-#### Lando's Millennium Falcon Expansion Pack
+### Second Edition
+
+#### Wave 1
 
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Customized YT-1300 Light Freighter
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Escape Craft
 
-#### Fang Fighter Expansion Pack
+#### Wave 2
 
 * ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Fang Fighter
+* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Modified TIE/ln Fighter
 
 ---
 
