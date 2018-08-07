@@ -166,8 +166,8 @@ The status of each ship is color-coded below:
 
 #### Wave 2
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Fang Fighter
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Modified TIE/ln Fighter
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Fang Fighter
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Modified TIE/ln Fighter
 
 ---
 
