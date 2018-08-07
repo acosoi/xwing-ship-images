@@ -86,8 +86,8 @@ The status of each ship is color-coded below:
 
 #### Imperial Assault Carrier Expansion Pack
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Gozanti-class Cruiser
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Fighter (Blue paint scheme)
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Gozanti-class Cruiser
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Fighter (Blue paint scheme)
 
 #### Wave 8
 
