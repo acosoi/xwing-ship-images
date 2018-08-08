@@ -15,7 +15,7 @@ The status of each ship is color-coded below:
 
 #### Wave 1
 
-* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) X-Wing
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) X-Wing
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Fighter
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Y-Wing
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Advanced
