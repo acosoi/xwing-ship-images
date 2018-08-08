@@ -123,11 +123,11 @@ The status of each ship is color-coded below:
 
 #### Wave 10
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Fighter (Sabine paint scheme)
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Upsilon-class Shuttle
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Quadjumper
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) U-wing
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Striker
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Fighter (Sabine paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Striker
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Upsilon-class Shuttle
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Quadjumper
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) U-wing
 
 #### Wave 11
 
