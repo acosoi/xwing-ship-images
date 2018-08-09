@@ -79,10 +79,10 @@ The status of each ship is color-coded below:
 
 #### Wave 7
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) YV-666
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Kihraxz Fighter
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) K-wing
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Punisher
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Kihraxz Fighter
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) YV-666
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) K-wing
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Punisher
 
 #### Imperial Assault Carrier Expansion Pack
 
