@@ -113,8 +113,8 @@ The status of each ship is color-coded below:
 
 #### Heroes of the Resistance Expansion Pack
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) YT-1300 (alternate paint scheme)
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-70 X-wing (Poe Dameron paint scheme)
+* ![#ff0000](https://placehold.it/15/ffff00/000000?text=+) T-70 X-wing (Poe Dameron paint scheme)
+* ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) YT-1300 (alternate paint scheme)
 
 #### C-ROC Cruiser Expansion Pack
 
