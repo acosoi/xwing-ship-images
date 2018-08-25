@@ -153,8 +153,8 @@ The status of each ship is color-coded below:
 
 #### Wave 14
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) U-Wing (Saw's Rebels paint scheme)
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) T-65 X-Wing (Saw's Rebels paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) U-Wing (Saw's Rebels paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) T-65 X-Wing (Saw's Rebels paint scheme)
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) TIE Reaper
 
 ### Second Edition
