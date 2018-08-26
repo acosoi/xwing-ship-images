@@ -91,7 +91,7 @@ The status of each ship is color-coded below:
 
 #### Wave 8
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Attack Shuttle
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Attack Shuttle
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Adv. Prototype
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) VCX-100
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) G-1A Starfighter
