@@ -101,8 +101,8 @@ The status of each ship is color-coded below:
 
 #### Imperial Veterans Expansion Pack
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Defender (Glaive Squadron paint scheme)
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) TIE Bomber (Glaive Squadron paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Defender (Glaive Squadron paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) TIE Bomber (Gamma Squadron paint scheme)
 
 #### Wave 9
 
