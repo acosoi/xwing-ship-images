@@ -61,8 +61,8 @@ The status of each ship is color-coded below:
 
 #### Wave 6
 
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Y-Wing (Scum paint scheme)
-* ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) Z-95 Headhunter (Black Sun paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Y-Wing (Scum paint scheme)
+* ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Z-95 Headhunter (Black Sun paint scheme)
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) M3-A Interceptor
 * ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) Aggressor
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) StarViper
