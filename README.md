@@ -3,6 +3,8 @@ Images of ships from X-Wing: The Miniatures Game by Fantasy Flight Games.
 
 All images are 256 x 256 PNGs with transparent backgrounds. The project is structured similarly to [xwing-data](https://github.com/guidokessels/xwing-data) by [Guido Kessels](https://github.com/guidokessels).
 
+This repository is no longer being updated with new ships launched in Second Edition. If you want those, look at [xwing-2e-ship-images](https://github.com/acosoi/xwing-2e-ship-images).
+
 The status of each ship is color-coded below:
 
 * ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) OK
